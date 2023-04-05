@@ -29,6 +29,7 @@
             </div>
 
             <div class="content">
+                <h1>this is vue code </h1>
                 <h1>Premium Handmade Jewellry On Every Occassion</h1>
                 <p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying.</p>
                 <a href="#" class="btn-primary">
